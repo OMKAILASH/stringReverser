@@ -1,2 +1,7 @@
 # string_ultapulta
-Hey there! this is one of my first projects/code in C#. Looking forward to learn and do more projects.. 
+A simple program to reverse any given string. 
+character by character reversion.
+
+- SnoopyLikesToCode 
+https://youtube.com/c/iointellect
+SnoopyLikesTech#1342
